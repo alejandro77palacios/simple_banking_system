@@ -1,2 +1,2 @@
-# simple_banking_system
- Create a banking system that stores cards's information in a relational database
+# Simple banking system
+ Create a banking system that creates and stores cards's information in a relational database
